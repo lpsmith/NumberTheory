@@ -1,0 +1,30 @@
+Name:                NumberTheory
+Version:             0.1
+Synopsis:            Number-theoretic Functions
+-- Description:         
+License:             BSD3
+License-file:        LICENSE
+Author:              Leon P Smith
+Maintainer:          leon@melding-monads.com
+Copyright:           (c) 2000-2010 Leon P Smith
+Category:            Math
+Build-type:          Simple
+
+-- Extra files to be distributed with the package, such as examples or
+-- a README.
+-- Extra-source-files:  
+Cabal-version:       >=1.2
+
+
+Library
+  -- Modules exported by the library.
+  -- Exposed-modules:     
+  
+  -- Packages needed in order to build this package.
+  -- Build-depends:       
+  
+  -- Modules not exported by this package.
+  -- Other-modules:       
+  
+  -- Extra tools (e.g. alex, hsc2hs, ...) needed to build the source.
+  -- Build-tools:         
